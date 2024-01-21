@@ -9,6 +9,10 @@ class RoleController {
             if(!name)
                 return sendError(res,"Incorrect body for create role!")
 
+            if(await Role.findOne({where:{name}})){
+                return sendError(res,"This name was taken!")
+            }
+
             const role = await Role.create({name})
 
             return res.status(200).json({data:role});
@@ -24,8 +28,13 @@ class RoleController {
 
             const findRole = await Role.findOne({where:{id}})
 
+
             if(!findRole)
                 return sendError(res,"Role not found!",404)
+
+            if(await Role.findOne({where:{name}})) {
+                return sendError(res, "This name was taken!")
+            }
 
             findRole.name = name ?? findRole.title
 
