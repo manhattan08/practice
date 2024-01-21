@@ -1,0 +1,25 @@
+error: Sun Jan 21 2024 19:36:27 GMT+0200 (Восточная Европа, стандартное время) - 400 - This username was taken! {"timestamp":"2024-01-21T17:36:27.482Z"}
+error: 500 - Something gone wrong {"timestamp":"2024-01-21T18:01:36.921Z"}
+error: 403 - Forbidden! {"timestamp":"2024-01-21T18:02:28.369Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T18:06:11.490Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T18:07:20.061Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T18:08:06.394Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T18:08:07.530Z"}
+error: 401 - Invalid token! {"timestamp":"2024-01-21T18:08:18.505Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T19:02:55.726Z"}
+error: 500 - Something gone wrong {"timestamp":"2024-01-21T19:03:01.205Z"}
+error: 500 - Something gone wrong {"timestamp":"2024-01-21T19:03:38.702Z"}
+error: 400 - This username was taken! {"timestamp":"2024-01-21T19:05:09.354Z"}
+error: 500 - Something gone wrong {"timestamp":"2024-01-21T19:05:14.954Z"}
+error: 500 - Something gone wrong {"timestamp":"2024-01-21T19:05:42.295Z"}
+error: 400 - This username was taken! {"timestamp":"2024-01-21T19:07:12.742Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T19:08:49.884Z"}
+error: 401 - Invalid token! {"timestamp":"2024-01-21T19:09:00.386Z"}
+error: 404 - User not found! {"timestamp":"2024-01-21T19:09:33.750Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T19:15:45.920Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T19:15:50.633Z"}
+error: 401 - Unauthorized {"timestamp":"2024-01-21T19:16:02.749Z"}
+error: 404 - User not found! {"timestamp":"2024-01-21T19:16:19.677Z"}
+error: 404 - User not found! {"timestamp":"2024-01-21T19:16:42.051Z"}
+error: 400 - Incorrect password or username! {"timestamp":"2024-01-21T19:16:50.336Z"}
+error: 403 - Forbidden! {"timestamp":"2024-01-21T19:18:01.739Z"}
