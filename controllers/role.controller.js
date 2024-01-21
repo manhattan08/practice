@@ -28,7 +28,6 @@ class RoleController {
 
             const findRole = await Role.findOne({where:{id}})
 
-
             if(!findRole)
                 return sendError(res,"Role not found!",404)
 
